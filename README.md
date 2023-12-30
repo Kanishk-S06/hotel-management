@@ -1,4 +1,4 @@
-# Hotel Management Website
+# Hotelzz - Hotel Management Website
 
 This project is a hotel management website built using Next.js, Sanity.io, Stripe, and Tailwind CSS. It allows users to explore hotel details, make reservations, and handle payments seamlessly.
 
